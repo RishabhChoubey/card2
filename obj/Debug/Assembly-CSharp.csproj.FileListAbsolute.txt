@@ -1,0 +1,2 @@
+E:\Study\unitygame\car2d\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+E:\Study\unitygame\car2d\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
